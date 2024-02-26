@@ -7,3 +7,6 @@ This is an onboarding of how to setup for a gui which you can use to integrate a
 ![Screenshot from 2024-02-16 07-32-43](https://github.com/muhd360/ROS_GUI/assets/125988314/6e60d3e6-1fd7-478e-9013-7fa17f46dbc9)
 img.png 
 ![img](https://github.com/muhd360/ROS_GUI/assets/125988314/709f1963-5ef1-4f65-adca-41940b12bde5)
+The following are the components of the gui:-
+1)you can access the terminal Directly from the gui
+2)anurag.py will run on your onboard computer we have used esp32 to send the data.
