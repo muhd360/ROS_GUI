@@ -9,4 +9,6 @@ img.png
 ![img](https://github.com/muhd360/ROS_GUI/assets/125988314/709f1963-5ef1-4f65-adca-41940b12bde5)
 The following are the components of the gui:-
 1)you can access the terminal Directly from the gui
-2)anurag.py will run on your onboard computer we have used esp32 to send the data.
+2)anurag.py will run on your onboard computer we have used esp32 to send the data.It is necessary to format the data accordingly we established multiple subscribers to extract and indiviually send the data on multiple ros publishers.
+3)ensure that data is being published on multiple rostopics you can check by running rostopic_list in your terminal
+4)now, you have to run the ros gui files they are as follows 1:-This is your main page 
