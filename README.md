@@ -1,3 +1,9 @@
 # ROS_GUI
 This is an onboarding of how to setup for a gui which you can use to integrate an user interface in your robotics project
+![Screenshot from 2024-02-16 07-30-59](https://github.com/muhd360/ROS_GUI/assets/125988314/7b59e3fb-d594-4340-8800-676e61aef1ca)
+
 ![Screenshot from 2024-02-16 07-27-01](https://github.com/muhd360/ROS_GUI/assets/125988314/d46601da-7388-4867-b5fb-e60ffbd8b95c)
+![Screenshot from 2024-02-16 07-35-10](https://github.com/muhd360/ROS_GUI/assets/125988314/397a1517-e64a-4a27-8ba8-9891f46c166c)
+![Screenshot from 2024-02-16 07-32-43](https://github.com/muhd360/ROS_GUI/assets/125988314/6e60d3e6-1fd7-478e-9013-7fa17f46dbc9)
+img.png 
+![img](https://github.com/muhd360/ROS_GUI/assets/125988314/709f1963-5ef1-4f65-adca-41940b12bde5)
